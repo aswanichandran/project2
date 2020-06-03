@@ -7,5 +7,9 @@ public class GreensTech {
    public static void main(String[]args) {
 	   GreensTech g=new GreensTech();
 	   g.greensOmr();
+	   
+	   System.out.println("Greenstech");
+	   System.out.println("batch schedule of nidhin");
+	   System.out.println("thank you");
    }
 }
